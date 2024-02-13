@@ -6,8 +6,6 @@ Some things I've been hacking on:
 - Learning about programming languages by building an interpreter ([Crafting Interpreters](https://github.com/munificent/craftinginterpreters) by [@munificent](https://github.com/munificent))
 - Learning how `git` works by building a `git` implementation ([Building Git](https://shop.jcoglan.com/building-git/) by [@jcoglan](https://github.com/jcoglan))
 
-[Website →](https://mattparmett.com)
-
-[LinkedIn →](https://www.linkedin.com/in/matthewparmett/)
-
-[Email me →](mailto:hi@mattparmett.com)
+[Website &rarr;](https://mattparmett.com) <br />
+[LinkedIn &rarr;](https://www.linkedin.com/in/matthewparmett/) <br />
+[Email me &rarr;](mailto:hi@mattparmett.com)
