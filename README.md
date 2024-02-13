@@ -7,5 +7,7 @@ Some things I've been hacking on:
 - Learning how `git` works by building a `git` implementation ([Building Git](https://shop.jcoglan.com/building-git/) by [@jcoglan](https://github.com/jcoglan))
 
 [Website →](https://mattparmett.com)
+
 [LinkedIn →](https://www.linkedin.com/in/matthewparmett/)
+
 [Email me →](mailto:hi@mattparmett.com)
